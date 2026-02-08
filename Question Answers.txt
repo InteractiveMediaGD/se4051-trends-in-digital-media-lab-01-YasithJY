@@ -1,0 +1,11 @@
+01. What is gaze-based interaction?
+ It is a hands-free input method where the system uses the user's focus (visual attention) as a cursor to interact with objects.
+
+02. Why is dwell time useful? 
+It prevents accidental triggers (the "Midas Touch" problem) by making sure the user intended to select the object by staring at it for a set time.
+
+03. How does sensory feedback improve realism?
+ It mimics real-world reactions. Using sound and visuals together confirms the interaction worked, which increases the user's feeling of "presence."
+
+04. Which cube felt most immersive and why? 
+Cube 3 (color + scale + sound). It uses multiple senses simultaneously, making the virtual environment feel more reactive and "real."
